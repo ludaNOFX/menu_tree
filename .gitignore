@@ -6,4 +6,4 @@ __pycache__/
 /media/images/*
 /staticfiles/*
 db.sqlite3
-static
+/static/
